@@ -1,6 +1,7 @@
 <center>
 
-### 👋 Greetings, the name's Diego.
+ ### 👋 Greetings, the name's Diego.
+</center>
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodevc&show_icons=true&theme=tokyonight)
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,5 +23,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-balardi-a2680721b)
 
-</center>
+
 
