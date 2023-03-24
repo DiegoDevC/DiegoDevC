@@ -1,4 +1,4 @@
-### 👋 Olá, meu nome é Diego 
+### 👋 Greetings, the name's Diego.
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodevc&show_icons=true&theme=tokyonight)
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -8,14 +8,14 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
 
-📓 Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e sempre em busca de aprender coisas novas.
+📓 I'm a student of Analysis and Systems Development passionate about technology and always seeking to learn new things.
 
-💻 Minhas habilidades incluem Python, C, HTML, CSS e JavaScript. Com essas ferramentas, eu já desenvolvi projetos incríveis que me permitiram colocar em prática tudo o que aprendi na faculdade e também aprimorar minhas habilidades como desenvolvedor.
+💻 My skills include Python, C, HTML, CSS, and JavaScript. With these tools, I've developed incredible projects that allowed me to put into practice everything I've learned in college and also improve my skills as a developer.
 
-🚀 Estou sempre buscando por novos desafios e projetos interessantes para trabalhar. Além disso, adoro compartilhar meu conhecimento e aprender com outras pessoas, por isso estou sempre envolvido em comunidades de desenvolvedores e participando de eventos relacionados à tecnologia.
+🚀 I'm always looking for new challenges and interesting projects to work on. Additionally, I love sharing my knowledge and learning from others, which is why I'm always involved in developer communities and participating in technology-related events.
 
-💡 Se você está procurando um desenvolvedor motivado, criativo e apaixonado por tecnologia, você encontrou a pessoa certa! Vamos trabalhar juntos para criar soluções incríveis e transformar ideias em realidade.
+💡 If you're looking for a motivated, creative, and technology-loving developer, you've found the right person! Let's work together to create amazing solutions and turn ideas into reality.
 
-🤝 Vamos nos conectar e criar algo incrível juntos? Estou animado para começar!
+🤝 Let's connect and create something amazing together? I'm excited to get started!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-balardi-a2680721b)
