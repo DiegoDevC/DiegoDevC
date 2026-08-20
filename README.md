@@ -19,7 +19,7 @@
 
 🤝 Let's connect and create something amazing together? I'm excited to get started!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-balardi-a2680721b)
+
 
 
 
